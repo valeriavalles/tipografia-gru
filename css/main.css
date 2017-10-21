@@ -1,0 +1,65 @@
+body{
+    margin-left: 175px;
+}
+#main{
+   display: block;
+    float: center;
+    text-align: center;
+    position: fixed;
+    margin: 0;
+    padding: auto;
+    
+} 
+
+div{
+    font-size: 12px;  
+}
+
+#avion:hover{
+    border:1px solid rgb(163, 162, 162);
+    font-family: 'Oswald', sans-serif;
+    background-color: white;
+    color: skyblue;
+}
+#rubi:hover{
+    border:1px solid rgb(163, 162, 162);
+    font-family: 'Oswald', sans-serif;
+    background-color: white;
+    color: skyblue;
+}
+
+#corazon:hover{
+    border:1px solid rgb(163, 162, 162);
+    font-family: 'Indie Flower', cursive;
+    background-color: white;
+    color: skyblue;   
+}
+
+#cafe:hover{
+    border:1px solid rgb(163, 162, 162);
+    font-family: 'Oswald', sans-serif;
+    background-color: white;
+    color: skyblue;
+}
+
+#plato:hover{
+    border:1px solid rgb(163, 162, 162);
+    font-family: 'Oswald', sans-serif;
+    background-color: white;
+    color: skyblue;
+}
+.box{
+    position: relative;
+    width: 200px;
+    height:240px ;
+    padding: 6px;
+    box-sizing: border-box;
+    float: left;
+    margin-left:1.5px;
+    background-color: hsl(197, 33%, 96%);
+    line-height: 150%;
+}
+p{
+    text-align: center;
+}
+
